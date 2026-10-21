@@ -76,4 +76,4 @@ Docker for containerization AWS for production deployment 📚 References
 
 ⁠ ⁠Smart India Hackathon 2026 — Problem Statement S11 ⁠ ⁠FAO Reports on Food Loss and Waste ⁠ ⁠Industry benchmarks on institutional kitchen wastage
 
-👥 Contributors This project was proudly built by our team for SIH 2026: @shivisri12 @dhri-tea @phew-phew007 @sanskriti56 @shivangii0611 @agarwalyukti06
+👥 Contributors This project was proudly built by our team for SIH 2026: @shivisri12 @dhri-tea @phew-phew007 @sanskriti56 @shivangiii0611 @agarwalyukti06
